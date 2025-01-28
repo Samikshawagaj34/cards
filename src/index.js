@@ -1,3 +1,3 @@
 import { createRoot } from "react-dom/client";
 const root = createRoot(document.getElementById("root"));
-root.render(<h1>hello everyone </h1>);
+root.render(<h1>hello world... </h1>);
