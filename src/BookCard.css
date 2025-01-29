@@ -1,8 +1,6 @@
-.card{
+.book-card{
   display: flex;
-  justify-content: center;
-  gap: 10px;
-  
+  flex-direction: row;
 }
 .book-card
 {
