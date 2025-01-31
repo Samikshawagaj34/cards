@@ -1,8 +1,8 @@
 import { createRoot } from "react-dom/client";
-import './BookCard.css';
-import BookCard, { BookCard2 } from "./BookCard.js";
-import image2 from "./cprogram-book.jpg";
-import image from "./datastructure-book.jpg";
+import './bookard./BookCard.css';
+import BookCard, { BookCard2 } from "./bookard/BookCard";
+import image2 from "./images/cprogram-book.jpg";
+import image from "./images/datastructure-book.jpg";
 
 
 
